@@ -18,5 +18,5 @@ MSYSで動作確認済み。
     6 directories
 
 * `classes` テスト対象のクラス
-* `test` テストとgoogletest
-
+* `functions` テスト対象の関数群
+* `test` テストとgoogletest置き場
